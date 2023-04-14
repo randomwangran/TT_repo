@@ -21,3 +21,4 @@ branch_1_sub2 - Commit 1
 branch_1_sub2 - Commit 2
 branch_1_sub2 - Commit 3
 branch_1_sub2_sub1 - Commit 1
+branch_1_sub2_sub1 - Commit 2
