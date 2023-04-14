@@ -93,3 +93,4 @@ branch_3_sub2_sub1 - Commit 3
 branch_4 - Commit 1
 branch_4 - Commit 2
 branch_4 - Commit 3
+branch_4 - Commit 4
