@@ -78,3 +78,4 @@ branch_3_sub1_sub2 - Commit 1
 branch_3_sub1_sub2 - Commit 2
 branch_3_sub1_sub2 - Commit 3
 branch_3_sub1_sub3 - Commit 1
+branch_3_sub1_sub3 - Commit 2
