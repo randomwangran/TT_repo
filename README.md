@@ -34,3 +34,13 @@ branch_2 - Commit 6
 branch_2 - Commit 7
 branch_2 - Commit 8
 branch_2 - Commit 9
+branch_2_sub1 - Commit 1
+branch_2_sub1 - Commit 2
+branch_2_sub2 - Commit 1
+branch_2_sub2 - Commit 2
+branch_2_sub2 - Commit 3
+branch_2_sub2 - Commit 4
+branch_2_sub2 - Commit 5
+branch_2_sub2 - Commit 6
+branch_2_sub2 - Commit 7
+branch_2_sub3 - Commit 1
