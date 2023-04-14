@@ -18,3 +18,4 @@ branch_1_sub1_sub1 - Commit 7
 branch_1_sub1_sub1 - Commit 8
 branch_1_sub1_sub1 - Commit 9
 branch_1_sub2 - Commit 1
+branch_1_sub2 - Commit 2
