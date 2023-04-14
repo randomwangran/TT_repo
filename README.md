@@ -50,3 +50,4 @@ branch_2_sub3 - Commit 4
 branch_2_sub3 - Commit 5
 branch_3 - Commit 1
 branch_3 - Commit 2
+branch_3 - Commit 3
