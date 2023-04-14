@@ -39,3 +39,4 @@ branch_2_sub1 - Commit 2
 branch_2_sub2 - Commit 1
 branch_2_sub2 - Commit 2
 branch_2_sub2 - Commit 3
+branch_2_sub2 - Commit 4
