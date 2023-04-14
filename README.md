@@ -28,3 +28,4 @@ branch_1_sub2_sub1 - Commit 5
 branch_2 - Commit 1
 branch_2 - Commit 2
 branch_2 - Commit 3
+branch_2 - Commit 4
