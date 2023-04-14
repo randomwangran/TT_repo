@@ -113,3 +113,4 @@ branch_4_sub1_sub2 - Commit 2
 branch_4_sub1_sub2 - Commit 3
 branch_4_sub1_sub2 - Commit 4
 branch_4_sub1_sub2 - Commit 5
+branch_4_sub1_sub2 - Commit 6
